@@ -1,0 +1,13 @@
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ModelagemDeDominiosRicos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.deps.json
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ModelagemDeDominiosRicos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.dll
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ModelagemDeDominiosRicos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.pdb
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ModelagemDeDominiosRicos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ModelagemDeDominiosRicos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ModelagemDeDominiosRicos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.csproj.AssemblyReference.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ModelagemDeDominiosRicos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ModelagemDeDominiosRicos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.AssemblyInfoInputs.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ModelagemDeDominiosRicos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.AssemblyInfo.cs
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ModelagemDeDominiosRicos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ModelagemDeDominiosRicos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.csproj.CopyComplete
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ModelagemDeDominiosRicos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.dll
+C:\Users\Desenvolvimento\Documents\Cursos Ponto.Sys\ModelagemDeDominiosRicos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.pdb
